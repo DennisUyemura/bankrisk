@@ -1,3 +1,2 @@
 # bankrisk
-Bank Risk Models working repository.  
-WAIT!! Major update expected 6/1/16
+Major update loaded 5/31/16... please sync or clone these files
