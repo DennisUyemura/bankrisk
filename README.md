@@ -1,4 +1,3 @@
 # bankrisk
-Code and data for "Bank Risk Models: The Effects of the Financial Crisis". 
-In August-2018, updated for 2018 June Call extracts and minor code fixes.
-NOTE: On 10/16/18, updated for newest versions of python and pandas. Several command changes were implemented to prevent errors in processing with new versions. (See documentation for details.) (Revised on 10/18/18 for additional corrections.  See Documentation.)
+Code and data for "Bank Risk Models: The Effects of the Financial Crisis".
+In April 2019, checked and fixed for recent coding changes in Python 3.  Added Call Report data through Quarter 4 of 2018.  Modified for 2019 CCAR scenarios.
