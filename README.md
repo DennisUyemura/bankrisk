@@ -1,4 +1,3 @@
 # bankrisk
 Code and data for "Bank Risk Models: The Effects of the Financial Crisis".
-In April 2019, checked and fixed for recent coding changes in Python 3.  Added Call Report data through Quarter 4 of 2018.  Modified for 2019 CCAR scenarios. 
-In May 2020, added data through 2020 Q1. Modified for 2020 CCAR scenarios.
+In May 2021, added data through 2020 Dec, updated for 2021 CCAR stress tests, updated Jupyter notebook files.  PLEASE NOTE: Due to huge distortions caused by the COVID pandemic on unemployment, GDP, mortgage delinquencies, etc, I have decided that this update will be the last.
